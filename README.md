@@ -8,7 +8,7 @@ Independent research on the U.S. banking system, built entirely from free public
 - 🤖 [Markdown](THE_PAPER_PUBLIC_EN.md) — machine-readable, for your AI of choice
 - 📊 [figures/](figures/) — all five charts as standalone PNGs
 
-Headline results: $260B of unrealized securities losses across 177 banks and **zero** capital breaches after full mark-to-market — for the second consecutive quarter — with a ten-tier interest-rate stress panel pricing that cushion's gradient (~$2.9B per basis point; 78% of the 2022 crisis peak at the yield where the market already trades; first breach only beyond +150bp; counts only, no names); a deposit headline demoted by its own seasonal baseline; eight banks whose strong earnings coincide with measurable reserve-account support; and the measuring instrument itself replayed against the three 2023 bank failures, with its blind spots documented and one of them repaired in public.
+Headline results: $260B of unrealized securities losses across 177 banks and **zero** capital breaches after full mark-to-market — for the second consecutive quarter — with a ten-tier interest-rate stress panel pricing that cushion's gradient (~$2.9B per basis point; ~72% of the 2022 crisis peak at the ~4.7% ten-year where the market trades today; first breach only beyond +150bp; counts only, no names); a deposit headline demoted by its own seasonal baseline; eight banks whose strong earnings coincide with measurable reserve-account support; and the measuring instrument itself replayed against the three 2023 bank failures, with its blind spots documented and one of them repaired in public.
 
 Eight falsifiable predictions inside, each testable against the late-November 2026 Q3 Call Reports. Results will be updated here.
 
